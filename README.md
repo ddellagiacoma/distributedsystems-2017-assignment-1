@@ -1,1 +1,1 @@
-# distributedsystems-2017-assignment-1
+# Simple Distributed Blackboard
